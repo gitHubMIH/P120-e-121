@@ -1,0 +1,53 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 35px;
+  }
+  .headingDiv
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+    padding: 10px;
+    font-size: 25px;
+  }
+  .headingDiv2
+  {
+    font-size: 20px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .result_para_tag span {
+    white-space: pre-line;
+  }
+ .copyRightFooter {
+  position: fixed;
+  color:rgb(230, 228, 228);
+  bottom: 0;
+ line-height: 3;
+width: 100%;
+background-color: rgb(83, 132, 240);
+text-align: center;
+ }
+ canvas {
+  border: 10px solid chocolate;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px rgb(22, 14, 2);
+  margin-top: 1050px;
+ }
+ img {
+  size: 15px;
+  float: left;
+  border-radius: 20px;
+ }
+ #vencedor {
+  font-size: 50px;
+  color: rgb(0, 0, 0);
+ }
